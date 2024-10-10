@@ -109,6 +109,7 @@ public class _03_pattern {
             }
             System.out.println();
         }
+        /* Hollow diamond
          1 2 3 4 5 6 7
     1          *
     2        *   *
@@ -117,7 +118,7 @@ public class _03_pattern {
     5      *       *
     6        *   *
     7          *
-
+*/
 
                 // Upper part of the diamond
            for (int i = 1; i <= n; i++) {
